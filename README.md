@@ -25,7 +25,7 @@
     <!-- <a href="#"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <a [href="https://github.com/shivank-007](https://shivank-007.github.io/ClickBoard/)
+    <a href="https://shivank-007.github.io/ClickBoard/
 /">View Demo</a>
     ·
     <a href="https://github.com/shivank-007
