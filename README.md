@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/shivank-007
+  <a href="[https://github.com/shivank-007](https://shivank-007.github.io/ClickBoard/)
 /">
     <img src="img/beat.png" alt="Logo" width="80" height="80">
   </a>
